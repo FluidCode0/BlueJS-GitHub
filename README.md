@@ -6,7 +6,7 @@ Welcome to blueJS, a JavaScript subset designed for Bluetooth-related operations
 ## Starting with VSCode and Replit.
 
 1. **Installing apps and files:**
-   - Install VSDode from Microsoft Store or Google, install the JavaScript Components in the latest version from Microsoft Store.
+   - Install VSCode from Microsoft Store or Google, install the JavaScript Components in the latest version from Microsoft Store.
    - For Replit, find in search bar "BlueJS", look through repls and find a repl named BlueJS and fork it.
 2. **Editing:**
    - Edit in VSCode and create a file named "blue.js".
